@@ -5,6 +5,7 @@
 * [Project Overview](#-project-overview)
 * [Design Philosophy](#-design-philosophy)
 * [Technical Features](#-technical-features)
+* [Technical Stack](#-technical-stack)
 * [Data Preview](#%EF%B8%8F-data-preview)
 * [How to Customize](#%EF%B8%8F-how-to-customize)
 * [File Structure](#-file-structure)
