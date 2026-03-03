@@ -7,7 +7,7 @@
 * [Technical Features](#-technical-features)
 * [Data Preview](#%EF%B8%8F-data-preview)
 * [How to Customize](#%EF%B8%8F-how-to-customize)
-* [File Structure](#%EF%B8%8Ffile-structure)
+* [File Structure](#file-structure)
 
 ---
 
