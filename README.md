@@ -5,9 +5,9 @@
 * [Project Overview](#-project-overview)
 * [Design Philosophy](#-design-philosophy)
 * [Technical Features](#-technical-features)
-* [Technologies Used](#-technologies-used)
-* [Data Preview](#-data-preview)
-* [How to Customize](#-how-to-customize)
+* [Technologies Used](#%EF%B8%8F-technologies-used)
+* [Data Preview](#%EF%B8%8F-data-preview)
+* [How to Customize](#%EF%B8%8F-how-to-customize)
 
 ---
 
@@ -45,11 +45,11 @@ The website utilizes a **"Cyber-Tech" aesthetic**, characterized by:
 
 ### Hero Section & Matrix Effect
 *The landing page featuring the high-performance binary animation and the 3D flipping profile card.*
-![Portfolio Hero Section](INSERT_IMAGE_NAME_1.png)
+![Portfolio Hero Section](hero.png)
 
 ### Projects & Skills Grid
 *A clean, categorized layout showcasing technical proficiencies and GitHub repositories.*
-![Portfolio Projects Section](INSERT_IMAGE_NAME_2.png)
+![Portfolio Projects Section](projects.png)
 
 ---
 
