@@ -7,8 +7,8 @@
 * [Technical Features](#-technical-features)
 * [Technical Stack](#-technical-stack)
 * [Data Preview](#%EF%B8%8F-data-preview)
-* [How to Customize](#%EF%B8%8F-how-to-customize)
 * [File Structure](#-file-structure)
+* [Source Code & Access](#-source-code--access)
 
 ---
 
@@ -54,15 +54,20 @@ The website utilizes a **"Cyber-Tech" aesthetic**, characterized by:
 
 ---
 
-## 🛠️ How to Customize
-1. **Change the Text:** Edit the `index.html` file to update your bio, skills, and project descriptions.
-2. **Update Images:** Replace the files in the `images/` folder with your own photos.
-3. **Contact Form:** Update the Formspree endpoint in the `<form>` tag to receive messages at your own email.
-4. **Colors:** Modify the `--primary` and `--secondary` variables in `style.css` to instantly change the site's color scheme.
-
----
 
 ## 📂 File Structure
 * `index.html`: The main page content.
 * `style.css`: Custom "Cyber" styling and animations.
 * `script.js`: Interactive elements and the Matrix background logic.
+* `images`: The folder containing images that were used in the website.
+
+---
+
+## 🔐 Source Code & Access
+The source code for this site is maintained in a private repository to protect the integrity and confidentiality of the design and custom logic. I believe in transparency, but also in the security of my development.
+
+If you are a recruiter or a fellow developer interested in reviewing the technical architecture for a professional opportunity, I am happy to grant access upon request.
+
+If you require access to the source code or a deep-dive into the technical architecture, please reach out via the **Contact Section** of the live website:
+
+👉 **[Request Code Access via My Portfolio Contact Page](https://eshek-sunday-portfolio.vercel.app/](https://eshek-sunday-portfolio.vercel.app/)**
