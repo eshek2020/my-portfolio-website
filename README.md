@@ -64,10 +64,10 @@ The website utilizes a **"Cyber-Tech" aesthetic**, characterized by:
 ---
 
 ## 🔐 Source Code & Access
-The source code for this site is maintained in a private repository to protect the integrity and confidentiality of the design and custom logic. I believe in transparency, but also in the security of my development.
+**Note:** The source code for this site is maintained in a private repository to protect the integrity and confidentiality of the design and custom logic. I believe in transparency, but also in the security of my development.
 
 If you are a recruiter or a fellow developer interested in reviewing the technical architecture for a professional opportunity, I am happy to grant access upon request.
 
 If you require access to the source code or a deep-dive into the technical architecture, please reach out via the **Contact Section** of the live website:
 
-👉 **[Request Code Access via My Portfolio Contact Page](https://eshek-sunday-portfolio.vercel.app/](https://eshek-sunday-portfolio.vercel.app/)**
+👉 **[Request Code Access via My Portfolio Contact Page](https://eshek-sunday-portfolio.vercel.app/)**
